@@ -1,0 +1,2 @@
+[objects]
+MAIN.OBJ
