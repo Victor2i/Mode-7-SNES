@@ -131,7 +131,7 @@
 	.include "HEADER.TXT"
 	.include "PRG/HANDLER.ASM" ; Exception handler
 	.include "PRG/INIT.ASM"
-	.include "PRG/CODE.ASM"
+	.include "PRG/ENTRYPOINT.ASM"
 	.include "PRG/MENU.ASM"
 	.include "PRG/MENUDATA/MENUINDEXES.ASM"
 	.include "PRG/MENUDATA/MENUMSGS.ASM"
